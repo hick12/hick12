@@ -32,9 +32,12 @@
 ---
 
 ### 📌 Projetos em destaque
-- 📚 [school_system_spring_boot](https://github.com/hick12/school_system_spring_boot) – Sistema escolar em Spring Boot  
-- 🎓 [Projeto---Faculdade](https://github.com/hick12/Projeto---Faculdade) – Projetos acadêmicos diversos  
-- 🌐 [Site_curriculo](https://github.com/hick12/Site_curriculo) – Currículo online em HTML e CSS  
+
+- 🏫 [school_system_spring_boot](https://github.com/hick12/school_system_spring_boot) - Sistema escolar em Spring Boot
+- 📑 [Projeto---Faculdade](https://github.com/hick12/Projeto---Faculdade) - Projetos acadêmicos diversos
+- 🌐 [Site_curriculo](https://github.com/hick12/Site_curriculo) - Currículo online em HTML e CSS
+- 👥 [cadastro-usuarios-api-java](https://github.com/hick12/cadastro-usuarios-api-java) - API REST em Java com Spring Boot para cadastro de usuários integrada a um frontend em HTML, CSS e JavaScript
+
 
 ---
 
