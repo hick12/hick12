@@ -45,6 +45,10 @@
 - 👥 [cadastro-usuarios-api-java](https://github.com/hick12/cadastro-usuarios-api-java)  
   API REST em Java com Spring Boot para cadastro de usuários, integrada a um frontend em HTML, CSS e JavaScript
 
+- ✅ [API-Listagem-Java-SpringBoot](https://github.com/hick12/API-LISTAGEM-JAVA-SPRINGBOOT) *(mais recente)*  
+  API simples em Java + Spring Boot para listagem de tarefas
+
+
 
 
 ---
