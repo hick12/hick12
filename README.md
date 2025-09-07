@@ -33,8 +33,6 @@
 
 📌 Projetos Atuais
 
-📌 Projetos Atuais
-
 - 🏫 [school system spring boot](https://github.com/hick12/school_system_spring_boot)  
   Sistema escolar desenvolvido em Spring Boot
 
