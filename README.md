@@ -33,20 +33,20 @@
 
 📌 Projetos Atuais
 
+📌 Projetos Atuais
+
 - 🏫 [school system spring boot](https://github.com/hick12/school_system_spring_boot)  
   Sistema escolar desenvolvido em Spring Boot
 
-- 📘 [Projeto---Faculdade](https://github.com/hick12/Projeto---Faculdade)  
-  Projetos acadêmicos diversos
-
-- 🌐 [site curriculo](https://github.com/hick12/site_curriculo)  
-  Currículo online feito em HTML e CSS
+- 👥 [projeto-cadastro-de-usuario](https://github.com/hick12/projeto-cadastro-de-usuario)  
+  API REST em Java com Spring Boot para cadastro de usuários com integração ao banco H2
 
 - 👥 [cadastro-usuarios-api-java](https://github.com/hick12/cadastro-usuarios-api-java)  
   API REST em Java com Spring Boot para cadastro de usuários, integrada a um frontend em HTML, CSS e JavaScript
 
 - ✅ [API-Listagem-Java-SpringBoot](https://github.com/hick12/API-LISTAGEM-JAVA-SPRINGBOOT) *(mais recente)*  
   API simples em Java + Spring Boot para listagem de tarefas
+
 
 
 
