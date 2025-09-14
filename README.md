@@ -6,11 +6,13 @@
 
 ---
 
-### 🚀 Sobre mim
-🎓 Estudante do **4º ano de Engenharia da Computação na FACAMP (conclusão prevista para dez/2026)**  
-💻 Atualmente focado em Java, Spring boot e API. Interesse em **desenvolvimento de software, cloud e full stack**  
-
 ---
+### 📌 Sobre mim
+🎓 Estudante do **4º ano de Engenharia da Computação na FACAMP (conclusão prevista para dez/2026)**  
+💻 Atualmente focado em **Python**, com interesse em **desenvolvimento de software, cloud e full stack**  
+📚 Experiência anterior em **Java Spring Boot (back end)**  
+---
+
 
 ### 🛠️ Tecnologias e ferramentas
 <div>
