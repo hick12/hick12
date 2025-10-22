@@ -9,7 +9,7 @@
 ---
 ### 📌 Sobre mim
 🎓 Estudante do **4º ano de Engenharia da Computação na FACAMP (conclusão prevista para dez/2026)**  
-💻 Atualmente focado em **Python**, com interesse em **Ciber, desenvolvimento de software, cloud e full stack**  
+💻 Atualmente focado em **Python e cybersecurity**, com interesse em **desenvolvimento de software, cloud e full stack**  
 📚 Experiência anterior em **Java Spring Boot (back end)**  
 ---
 
